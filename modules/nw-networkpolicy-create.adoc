@@ -156,3 +156,8 @@ ifdef::multi[]
 endif::multi[]
 :!name:
 :!role:
+
+[NOTE]
+====
+Alternatively, create network policies using the web console.
+====
